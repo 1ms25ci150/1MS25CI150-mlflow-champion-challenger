@@ -1,0 +1,9 @@
+model_version,alias,text,label,score
+1,champion,The football final was the most exciting match I have watched this year.,POSITIVE,0.9994
+1,champion,My laptop charger stopped working just two weeks after I bought it.,NEGATIVE,0.9972
+1,champion,The college fest had amazing performances and great food stalls.,POSITIVE,0.9994
+1,champion,The bus driver was rude and refused to stop at my usual stop.,NEGATIVE,0.9942
+1,champion,I loved the new science fiction novel my friend recommended.,POSITIVE,0.9995
+1,champion,The lab experiment failed three times and we wasted the whole afternoon.,NEGATIVE,0.9985
+1,champion,The library staff were incredibly patient and helped me find every book.,POSITIVE,0.9981
+1,champion,The mobile app keeps logging me out and I lost my saved notes.,NEGATIVE,0.9982
